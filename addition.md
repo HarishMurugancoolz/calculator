@@ -32,7 +32,6 @@ When the result is too large to display
 
 Then I Truncate the overrunning limits.
 
-
 Scenario: Numbers can be negative
 
 Given I have a calculator that's turned on
