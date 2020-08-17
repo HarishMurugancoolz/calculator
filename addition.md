@@ -19,7 +19,7 @@ when I enter "number1"
 And I press "+" button
 And I enter  "number2"
 And I press "+" button
-And so on.
+And so on
 And I press "=" button.
 
 Then I see the "added sum" of more numbers as a result.
